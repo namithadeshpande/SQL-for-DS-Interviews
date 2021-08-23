@@ -1,1 +1,1 @@
-# LeetCode-Curated-SQL-70
+# LeetCode SQL
