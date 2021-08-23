@@ -1,5 +1,4 @@
-Write a SQL query to get the second highest salary from the Employee table.
-
+/* Write a SQL query to get the second highest salary from the Employee table.
 +----+--------+
 | Id | Salary |
 +----+--------+
@@ -7,6 +6,7 @@ Write a SQL query to get the second highest salary from the Employee table.
 | 2  | 200    |
 | 3  | 300    |
 +----+--------+
+*/
 
 SELECT MAX(Salary) AS SecondHighestSalary
 FROM Employee 
